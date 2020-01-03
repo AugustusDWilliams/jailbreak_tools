@@ -1,4 +1,4 @@
 # TODO
 
-- ~~Find Internet Icon for My Fios~~
-- Find better Photos Icon
+- Add Script to parse Obsidian Tweak List Exports
+    - Improve upon previous scripts
