@@ -1,0 +1,141 @@
+Tweak,Version,Repo
+AppList,1.5.15~beta1,- applist
+APT,1.8.2-3,- apt
+APT (apt-key),1.8.2-1,- apt-key
+APT 1.4 Transitional,1:0,- apt1.4
+APT 0.7 Transitional (apt-key),1:0,- apt7-key
+Base Structure,1-5,- base
+Bourne-Again SHell,5.0.3-2,- bash
+Berkeley DB,6.2.32-1,- berkeleydb
+tweakCompatible,0.1.5,- bz.jed.tweakcompatible
+CA Certs,0.0.2,- ca-certificates
+HideYourApps,1.3.0,- ca.menushka.hideyourapps
+MenushkaPrefs,1.2.2,- ca.menushka.menushkaprefs
+OneNotify,1.3.1,- ca.menushka.onenotify
+Flame,1.3,- com.aditkamath.flame
+AlwaysLatestTimelineTwitter,1.0,- com.alwayslatesttimelinetwitter
+BetterCCXI,1.6.0,- com.atwiiks.betterccxi
+DontManageMyNotifications,1.0.2-1,- com.autruche.dontmanagemynotifications
+Snappy,1.3.0,- com.bingner.snappy
+CastSwitcher,1.2-3,- com.castmary.castswitcher
+Cydia Timeout 5,0.1.1,- com.chickenmatt5.cydiatimeout5
+IconSupport,1.11.1,- com.chpwn.iconsupport
+AppStore++,0.9.8-7,- com.cokepokes.appstoreplusplus
+Fast Copy,1.0,- com.comex.fastcopy
+libCSPreferences,1.1.6,- com.creaturecoding.libcspreferences
+shuffle,0.8.0b,- com.creaturecoding.shuffle
+libCSColorPicker,1.0,- com.creaturesurvive.libcscolorpicker
+NoCShare,1.1.1,- com.devvix.nocshare
+Truecuts,1.0.0-2,- com.ethanrdoesmc.truecuts
+iCleaner Pro,7.8.0,- com.exile90.icleanerpro
+Dimage,1.2.1,- com.foxfort.dimage
+FoxFort Tools,1.0.15,- com.foxfort.foxforttools
+libfoxfortutils,1.0.14,- com.foxfort.libfoxfortutils
+NoTrackpadDelay,1.1,- com.frozenpenguin.notrackpaddelay
+ColorFlow 5 (iOS 13),1.0.2,- com.golddavid.colorflow5
+HYI Repo Icons,8.0.4,- com.hackyouriphone.iconrepo
+NFCBackgroundEnabler,1.1.0.0,- com.haotestlabs.nfcbackgroundenabler
+RepoFinder,1.021,- com.homemadetoast.repofinder
+PowerSelector (iOS 11 to 13),1.2.6,- com.ichitaso.powerselector11
+PrimalFolder 2,0.0.7,- com.ichitaso.primalfolder2
+MiscSettings,2.4.2,- com.idevicehacked.miscsettings
+SwipeSelection,1.5.6,- com.iky1e.swipeselection
+SugarCane,1.2-3+debug,- com.ioscreatix.sugarcane
+CCModules,1.5-1,- com.jailbreak365.safeccmodules
+Artemis,0.7.21~beta5,- com.joey-gm.artemis
+GoodWiFi,0.0~beta5,- com.julioverne.goodwifi
+XenInfo,2.2.9,- com.junesiphone.xeninfo
+Supercharge Preview,1.0.0~preview1,- com.kabiroberai.supercharge
+Locale Profiles in UTF-8,1.0-1,- com.linusyang.localeutf8
+Lotus,1.0,- com.macciti.lotus
+Xen HTML,1.1.2~release,- com.matchstic.xenhtml
+IconSupportFix,1.0.0,- com.muirey03.iconsupportfix
+libimagepicker,1.0.4,- com.muirey03.libimagepicker
+Magma Evo,1.1.3,- com.noisyflake.magmaevo
+CCSupport,1.2.2,- com.opa334.ccsupport
+powerlogHelperdFix,1.0,- com.opa334.powerloghelperdfix
+Safari Plus (Cepheiless),1.7.10-2,- com.opa334.safariplussnakeoil
+Obsidian,1.1,- com.pixelomer.obsidian
+AnActuallyGoodFilzaEditor,0.1.0~beta1,- com.qiop1379.anactuallygoodfilzaeditor
+RocketBootstrap,1.0.7~beta3,- com.rpetrich.rocketbootstrap
+Liberty Lite,0.2.10,- com.ryleyangus.libertylite
+Substrate Safe Mode,0.9.6003,- com.saurik.substrate.safemode
+Resume,1.0.0-1,- com.smokin1337.resume
+SilentScreenshot,1.2,- com.smokin1337.silentscreenshot
+libSparkAppList,1.0.4,- com.spark.libsparkapplist
+SnowBoard,1.2.87~Beta2,- com.spark.snowboard
+SnowBoard,1.0.3~Beta2,- com.spark.snowboardapplication
+Sposify,3.1.5,- com.spos
+Glacier,0.0.1-63+debug,- com.squ1dd13.glacier
+Filza File Manager,3.7.2,- com.tigisoftware.filza
+mida~beta,1.0.4~b1,- com.trentjk.mida
+3DBadgeClear,1.4.0,- com.twickd.john-sklikas.3dbadgeclear
+Instagram ++,1.8r-300,- com.unlimapps.gramplus
+uasharedtools,2.2r-94,- com.unlimapps.uasharedtools
+uasharedtools (iOS 11),2.2r-94,- com.unlimapps.uasharedtools.nostash
+Twitter No Ads,0.0.2,- com.yadkin.twitternoads
+YouTube Tools,4.0,- com.yourepo.jpet26.youtubetools1
+Soda Repo Icons,1.2,- com.yourepo.soda-ldz.icone
+Core Utilities,8.31-1,- coreutils
+Core Utilities (/bin),8.31-1,- coreutils-bin
+Cydia Installer,1.1.32~b23,- cydia
+Cydia Translations,1.1.32~b1,- cydia-lproj
+Darwin Tools,1.1-1,- darwintools
+Debian Utilities,4.8.6-1,- debianutils
+Diff Utilities,3.6-1,- diffutils
+Debian Packager,1.19.7-1,- dpkg
+Essential,0-2,- essential
+Find Utilities,4.6.0-2,- findutils
+iOS Firmware,13.3.1,- firmware
+iPhone Firmware (/sbin),0-1,- firmware-sbin
+Flex 3 Beta,1:3~Beta86,- flex3beta
+GNU Cryptography,1.8.3-1,- gcrypt
+GnuPG,2.2.11-2,- gnupg
+GnuTLS,3.5.19-1,- gnutls
+Kalm,1.2.2,- hi.my.name.is.ubik.kalm
+BackgrounderAction2 for CCSupport,0.1.4,- jp.akusio.backgrounderaction13
+MilkyWay2,0.1.1-alpha,- jp.akusio.milkyway2
+Launch Daemon Controller,23-1,- launchctl
+Link Identity Editor,2:2.1.2+24497ae-1,- ldid
+APT Strict (lib),1.8.2-1,- libapt
+APT (libapt-pkg),1.8.2-1,- libapt-pkg5.0
+Assuan,2.5.1-1,- libassuan
+GNU Multiple Precision Arithmetic Library,6.1.2-1,- libgmp10
+GnuPG Errors,1.32-1,- libgpg-error
+KSBA,1.3.5-1,- libksba
+OpenSSL 1.0 Libraries,1.0.2s-1,- libssl1.0
+OpenSSL 1.1.1 Libraries,1.1.1c-1,- libssl1.1.1
+LZ4,1.7.5-1,- lz4
+LZMA Utils,2:4.32.7-2,- lzma
+twttr,1.0.5,- me.aesthyrica.twttr
+HomePlus Beta,0.4.9-beta,- me.kritanta.homeplus
+Axon,0.5.1,- me.nepeta.axon
+Docky,0.2.2,- me.nepeta.docky
+IconState,0.1.0,- me.nepeta.iconstate
+TypeTab,5.0,- ml.andrewhyatt.typetab
+Cydia Substrate,0.9.7101,- mobilesubstrate
+New Curses,6.1+20181013-1,- ncurses
+New Curses,5.9-1,- ncurses5-libs
+AppSync Unified,70.0,- net.angelxwind.appsyncunified
+Nettle,3.4.1-1,- nettle
+New GNU Portable Threads,1.6-1,- npth
+OpenSSH,8.1-1,- openssh
+libswift (stable),5.0,- org.swift.libswift
+Appcon,1.4.7,- org.thebigboss.appcon
+DismissProgress,1.0.4,- org.thebigboss.dismissprogress
+libcolorpicker,1.6.7,- org.thebigboss.libcolorpicker
+BigBoss Icon Set,1.0,- org.thebigboss.repo.icons
+SwipeForMore,1.1.10,- org.thebigboss.swipeformore
+7-zip (POSIX),16.02-1,- p7zip
+PreferenceLoader,2.2.4,- preferenceloader
+Profile Directory,0-1,- profile.d
+CocoaTop,2.0.2,- ru.domo.cocoatop64
+Twitter Labs,1.0.6,- ru.pvmntsdev.twitterlabs
+Rose 🌹,4.5,- sh.litten.rose
+Tape Archive,1.30-2,- tar
+UIKit Tools,1.1.15-2,- uikittools
+Cephei,1.14,- ws.hbang.common
+NewTerm (iOS 10 – 13),2.4,- ws.hbang.newterm2
+Zebra,1.1~beta1-1,- xyz.willy.zebra
+System Info,2.0.0-1,- xyz.xninja.systeminfo
+XZ Utils,5.2.4-4,- xz

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>Omega</string>
+	<key>ColorFilter</key>
+	<dict>
+		<key>BundleIdentifiers</key>
+		<array>
+			<string>com.apple.Preferences</string>
+			<string>com.junesiphone.screenshotapp</string>
+			<string>com.junesiphone.themebackup</string>
+		</array>
+		<key>policy</key>
+		<string>blacklist</string>
+	</dict>
+	<key>OverrideColors</key>
+	<dict>
+		<key>BarBackgroundColor</key>
+		<string>#e7ad78</string>
+		<key>BlackColor</key>
+		<string>#3a3a42</string>
+	</dict>
+	<key>TintColors</key>
+	<dict>
+		<key>Global</key>
+		<string>#3a3a42</string>
+		<key>UIView</key>
+		<string>#1169b2</string>
+		<key>UISegmentedControl</key>
+		<string>#f584f3</string>
+	</dict>
+	<key>TintFilter</key>
+	<dict>
+		<key>BundleIdentifiers</key>
+		<array>
+			<string>com.apple.Preferences</string>
+			<string>com.junesiphone.screenshotapp</string>
+			<string>com.junesiphone.themebackup</string>
+		</array>
+		<key>policy</key>
+		<string>blacklist</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+# of Icons
+1.0: 168
+1.1: 191
+1.2: 232
+1.3: 310
+1.4: 390
+1.5: 409
+
+Wallpapers are all modified verions of images found at https://unsplash.com/ (a site for CC0 images)
+unmodified trees by Carmine De Fazio: https://unsplash.com/photos/3ytjETpQMNY
+unmodified mountain by Paul Earle: https://unsplash.com/photos/xJ2tjuUHD9M
+unmodified plant by Annie Spratt: https://unsplash.com/photos/8mqOw4DBBSg
+unmodified waterfall by Jose Murillo: https://unsplash.com/photos/7x4dOkulU9E
+unmodified clouds by Cristian Baron: https://unsplash.com/photos/dPFaq7RVzbQ

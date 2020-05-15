@@ -34,8 +34,8 @@ def write_data(filename, data):
 
 
 if __name__ == "__main__":
-    filename = "/home/development/Code/Projects/jailbreak_tools/data/tweak_list.csv"
-    output_filename = "/home/development/Code/Projects/jailbreak_tools/data/parsed_tweak_list.csv"
+    filename = "/home/development/Code/Projects/jailbreak_tools/data/TweakLists/02-26-2020.txt"
+    output_filename = "/home/development/Code/Projects/jailbreak_tools/data/ParsedTweakLists/02-26-2020.csv"
     data = read_file(filename)
     tweak_list = parse_data(data)
     write_data(output_filename, tweak_list)

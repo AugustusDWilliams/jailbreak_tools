@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>		
+	<key>CalendarIconDateStyle</key>
+	<string>padding: 10px 2px; color: #2e2e2e; font-size: 32px; 
+	text-shadow: #b4b4b4 0px -1px 3px</string>
+	<key>CalendarIconDateSettings</key>
+		<dict>
+			 <key>FontName</key>
+			<string>Avenir-Black</string>
+				<key>FontSize</key>
+				<integer>26</integer>
+				<key>ShadowBlurRadius</key>
+				<integer>1</integer>
+				<key>ShadowColor</key>
+				<string>rgba(0, 0, 0, 0.5)</string>
+				<key>ShadowXoffset</key>
+				<real>1.0</real>
+				<key>ShadowYoffset</key>
+				<real>1.0</real>
+				<key>TextColor</key>
+				<string>rgba(255, 255, 255, 0.8)</string>
+				<key>TextYoffset</key>
+				<real>7.0</real>
+		</dict>
+	<key>CalendarIconDayStyle</key>
+	<string>padding: 6px 0px 0px 0px; color:#fff5f5; font-size: 8px; 
+	text-shadow: #8e1f1f 0px -1px 4px</string>
+	<key>CalendarIconDaySettings</key>
+		<dict>
+				<key>FontName</key>
+			<string>Avenir-Black</string>
+				<key>FontSize</key>
+				<integer>6</integer>
+				<key>ShadowBlurRadius</key>
+				<integer>1</integer>
+				<key>ShadowColor</key>
+				<string>rgba(0, 0, 0, 0.5)</string>
+				<key>ShadowXoffset</key>
+				<real>1.0</real>
+				<key>ShadowYoffset</key>
+				<real>1.0</real>
+				<key>TextColor</key>
+				<string>rgba(255, 255, 255, 0.8)</string>
+				<key>TextYoffset</key>
+				<real>7.0</real>
+		</dict>
+	<key>PackageName</key>
+	<string>Ov2</string>
+	<key>IB-MaskIcons</key>
+	<true/>
+</dict>
+</plist>

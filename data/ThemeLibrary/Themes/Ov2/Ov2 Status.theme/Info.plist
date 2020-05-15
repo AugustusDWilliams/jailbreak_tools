@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+		<key>TintFilter</key>
+		<dict>
+				<key>policy</key>
+				<string>blacklist</string>
+				<key>BundleIdentifiers</key>
+				<array />
+		</dict>
+		<key>TintColors</key>
+		<dict>
+				<key>UIStatusBar</key>
+				<string>green</string>
+				<key>UIStatusBarSignalStrengthItemView</key>
+				<string>purple</string>
+				<key>UIStatusBarServiceItemView</key>
+				<string>blue</string>
+				<key>UIStatusBarItemView</key>
+				<string>green</string>
+				<key>UIStatusBarAirplaneModeItemView</key>
+				<string>rgb(0,255,255)</string>
+				<key>UIStatusBarDataNetworkItemView</key>
+				<string>green</string>
+				<key>UIStatusBarActivityItemView</key>
+				<string>red</string>
+				<key>UIStatusBarTimeItemView</key>
+				<string>orange</string>
+				<key>UIStatusBarBluetoothItemView</key>
+				<string>blue</string>
+				<key>UIStatusBarBatteryItemView</key>
+				<string>red</string>
+				<key>UIStatusBarBatteryPercentItemView</key>
+				<string>purple</string>
+		</dict>
+	<key>PackageName</key>
+	<string>Ov2</string>
+</dict>
+</plist>

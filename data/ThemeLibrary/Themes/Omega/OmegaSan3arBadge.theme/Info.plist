@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>Omega</string>
+	<key>ThemeLib-BadgeSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>Helvetica</string>
+		<key>FontSize</key>
+		<real>12</real>
+		<key>HeightChange</key>
+		<real>2</real>
+		<key>WidthChange</key>
+		<real>4</real>
+		<key>TextXoffset</key>
+		<real>2.5</real>
+		<key>TextYoffset</key>
+		<real>0.5</real>
+		<key>TextColor</key>
+		<string>#CF48F9</string>
+		
+	</dict>
+</dict>
+</plist>
+ 

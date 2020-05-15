@@ -1,0 +1,560 @@
+- applist  
+Visible name: AppList  
+Version: 1.5.15~beta1
+
+- apt  
+Visible name: APT  
+Version: 1.8.2-3
+
+- apt-key  
+Visible name: APT (apt-key)  
+Version: 1.8.2-1
+
+- apt1.4  
+Visible name: APT 1.4 Transitional  
+Version: 1:0
+
+- apt7-key  
+Visible name: APT 0.7 Transitional (apt-key)  
+Version: 1:0
+
+- base  
+Visible name: Base Structure  
+Version: 1-5
+
+- bash  
+Visible name: Bourne-Again SHell  
+Version: 5.0.3-2
+
+- berkeleydb  
+Visible name: Berkeley DB  
+Version: 6.2.32-1
+
+- bz.jed.tweakcompatible  
+Visible name: tweakCompatible  
+Version: 0.1.5
+
+- ca-certificates  
+Visible name: CA Certs  
+Version: 0.0.2
+
+- ca.menushka.hideyourapps  
+Visible name: HideYourApps  
+Version: 1.3.0
+
+- ca.menushka.menushkaprefs  
+Visible name: MenushkaPrefs  
+Version: 1.2.2
+
+- ca.menushka.onenotify  
+Visible name: OneNotify  
+Version: 1.3.1
+
+- com.aditkamath.flame  
+Visible name: Flame  
+Version: 1.3
+
+- com.alwayslatesttimelinetwitter  
+Visible name: AlwaysLatestTimelineTwitter  
+Version: 1.0
+
+- com.atwiiks.betterccxi  
+Visible name: BetterCCXI  
+Version: 1.6.0
+
+- com.autruche.dontmanagemynotifications  
+Visible name: DontManageMyNotifications  
+Version: 1.0.2-1
+
+- com.bingner.snappy  
+Visible name: Snappy  
+Version: 1.3.0
+
+- com.castmary.castswitcher  
+Visible name: CastSwitcher  
+Version: 1.2-3
+
+- com.chickenmatt5.cydiatimeout5  
+Visible name: Cydia Timeout 5  
+Version: 0.1.1
+
+- com.chpwn.iconsupport  
+Visible name: IconSupport  
+Version: 1.11.1
+
+- com.cokepokes.appstoreplusplus  
+Visible name: AppStore++  
+Version: 0.9.8-7
+
+- com.comex.fastcopy  
+Visible name: Fast Copy  
+Version: 1.0
+
+- com.creaturecoding.libcspreferences  
+Visible name: libCSPreferences  
+Version: 1.1.6
+
+- com.creaturecoding.shuffle  
+Visible name: shuffle  
+Version: 0.8.0b
+
+- com.creaturesurvive.libcscolorpicker  
+Visible name: libCSColorPicker  
+Version: 1.0
+
+- com.devvix.nocshare  
+Visible name: NoCShare  
+Version: 1.1.1
+
+- com.ethanrdoesmc.truecuts  
+Visible name: Truecuts  
+Version: 1.0.0-2
+
+- com.exile90.icleanerpro  
+Visible name: iCleaner Pro  
+Version: 7.8.0
+
+- com.foxfort.dimage  
+Visible name: Dimage  
+Version: 1.2.1
+
+- com.foxfort.foxforttools  
+Visible name: FoxFort Tools  
+Version: 1.0.15
+
+- com.foxfort.libfoxfortutils  
+Visible name: libfoxfortutils  
+Version: 1.0.14
+
+- com.frozenpenguin.notrackpaddelay  
+Visible name: NoTrackpadDelay  
+Version: 1.1
+
+- com.golddavid.colorflow5  
+Visible name: ColorFlow 5 (iOS 13)  
+Version: 1.0.2
+
+- com.hackyouriphone.iconrepo  
+Visible name: HYI Repo Icons  
+Version: 8.0.4
+
+- com.haotestlabs.nfcbackgroundenabler  
+Visible name: NFCBackgroundEnabler  
+Version: 1.1.0.0
+
+- com.homemadetoast.repofinder  
+Visible name: RepoFinder  
+Version: 1.021
+
+- com.ichitaso.powerselector11  
+Visible name: PowerSelector (iOS 11 to 13)  
+Version: 1.2.6
+
+- com.ichitaso.primalfolder2  
+Visible name: PrimalFolder 2  
+Version: 0.0.7
+
+- com.idevicehacked.miscsettings  
+Visible name: MiscSettings  
+Version: 2.4.2
+
+- com.iky1e.swipeselection  
+Visible name: SwipeSelection  
+Version: 1.5.6
+
+- com.ioscreatix.sugarcane  
+Visible name: SugarCane  
+Version: 1.2-3+debug
+
+- com.jailbreak365.safeccmodules  
+Visible name: CCModules  
+Version: 1.5-1
+
+- com.joey-gm.artemis  
+Visible name: Artemis  
+Version: 0.7.21~beta5
+
+- com.julioverne.goodwifi  
+Visible name: GoodWiFi  
+Version: 0.0~beta5
+
+- com.junesiphone.xeninfo  
+Visible name: XenInfo  
+Version: 2.2.9
+
+- com.kabiroberai.supercharge  
+Visible name: Supercharge Preview  
+Version: 1.0.0~preview1
+
+- com.linusyang.localeutf8  
+Visible name: Locale Profiles in UTF-8  
+Version: 1.0-1
+
+- com.macciti.lotus  
+Visible name: Lotus  
+Version: 1.0
+
+- com.matchstic.xenhtml  
+Visible name: Xen HTML  
+Version: 1.1.2~release
+
+- com.muirey03.iconsupportfix  
+Visible name: IconSupportFix  
+Version: 1.0.0
+
+- com.muirey03.libimagepicker  
+Visible name: libimagepicker  
+Version: 1.0.4
+
+- com.noisyflake.magmaevo  
+Visible name: Magma Evo  
+Version: 1.1.3
+
+- com.opa334.ccsupport  
+Visible name: CCSupport  
+Version: 1.2.2
+
+- com.opa334.powerloghelperdfix  
+Visible name: powerlogHelperdFix  
+Version: 1.0
+
+- com.opa334.safariplussnakeoil  
+Visible name: Safari Plus (Cepheiless)  
+Version: 1.7.10-2
+
+- com.pixelomer.obsidian  
+Visible name: Obsidian  
+Version: 1.1
+
+- com.qiop1379.anactuallygoodfilzaeditor  
+Visible name: AnActuallyGoodFilzaEditor  
+Version: 0.1.0~beta1
+
+- com.rpetrich.rocketbootstrap  
+Visible name: RocketBootstrap  
+Version: 1.0.7~beta3
+
+- com.ryleyangus.libertylite  
+Visible name: Liberty Lite  
+Version: 0.2.10
+
+- com.saurik.substrate.safemode  
+Visible name: Substrate Safe Mode  
+Version: 0.9.6003
+
+- com.smokin1337.resume  
+Visible name: Resume  
+Version: 1.0.0-1
+
+- com.smokin1337.silentscreenshot  
+Visible name: SilentScreenshot  
+Version: 1.2
+
+- com.spark.libsparkapplist  
+Visible name: libSparkAppList  
+Version: 1.0.4
+
+- com.spark.snowboard  
+Visible name: SnowBoard  
+Version: 1.2.87~Beta2
+
+- com.spark.snowboardapplication  
+Visible name: SnowBoard  
+Version: 1.0.3~Beta2
+
+- com.spos  
+Visible name: Sposify  
+Version: 3.1.5
+
+- com.squ1dd13.glacier  
+Visible name: Glacier  
+Version: 0.0.1-63+debug
+
+- com.tigisoftware.filza  
+Visible name: Filza File Manager  
+Version: 3.7.2
+
+- com.trentjk.mida  
+Visible name: mida~beta  
+Version: 1.0.4~b1
+
+- com.twickd.john-sklikas.3dbadgeclear  
+Visible name: 3DBadgeClear  
+Version: 1.4.0
+
+- com.unlimapps.gramplus  
+Visible name: Instagram ++  
+Version: 1.8r-300
+
+- com.unlimapps.uasharedtools  
+Visible name: uasharedtools  
+Version: 2.2r-94
+
+- com.unlimapps.uasharedtools.nostash  
+Visible name: uasharedtools (iOS 11)  
+Version: 2.2r-94
+
+- com.yadkin.twitternoads  
+Visible name: Twitter No Ads  
+Version: 0.0.2
+
+- com.yourepo.jpet26.youtubetools1  
+Visible name: YouTube Tools  
+Version: 4.0
+
+- com.yourepo.soda-ldz.icone  
+Visible name: Soda Repo Icons  
+Version: 1.2
+
+- coreutils  
+Visible name: Core Utilities  
+Version: 8.31-1
+
+- coreutils-bin  
+Visible name: Core Utilities (/bin)  
+Version: 8.31-1
+
+- cydia  
+Visible name: Cydia Installer  
+Version: 1.1.32~b23
+
+- cydia-lproj  
+Visible name: Cydia Translations  
+Version: 1.1.32~b1
+
+- darwintools  
+Visible name: Darwin Tools  
+Version: 1.1-1
+
+- debianutils  
+Visible name: Debian Utilities  
+Version: 4.8.6-1
+
+- diffutils  
+Visible name: Diff Utilities  
+Version: 3.6-1
+
+- dpkg  
+Visible name: Debian Packager  
+Version: 1.19.7-1
+
+- essential  
+Visible name: Essential  
+Version: 0-2
+
+- findutils  
+Visible name: Find Utilities  
+Version: 4.6.0-2
+
+- firmware  
+Visible name: iOS Firmware  
+Version: 13.3.1
+
+- firmware-sbin  
+Visible name: iPhone Firmware (/sbin)  
+Version: 0-1
+
+- flex3beta  
+Visible name: Flex 3 Beta  
+Version: 1:3~Beta86
+
+- gcrypt  
+Visible name: GNU Cryptography  
+Version: 1.8.3-1
+
+- gnupg  
+Visible name: GnuPG  
+Version: 2.2.11-2
+
+- gnutls  
+Visible name: GnuTLS  
+Version: 3.5.19-1
+
+- hi.my.name.is.ubik.kalm  
+Visible name: Kalm  
+Version: 1.2.2
+
+- jp.akusio.backgrounderaction13  
+Visible name: BackgrounderAction2 for CCSupport  
+Version: 0.1.4
+
+- jp.akusio.milkyway2  
+Visible name: MilkyWay2  
+Version: 0.1.1-alpha
+
+- launchctl  
+Visible name: Launch Daemon Controller  
+Version: 23-1
+
+- ldid  
+Visible name: Link Identity Editor  
+Version: 2:2.1.2+24497ae-1
+
+- libapt  
+Visible name: APT Strict (lib)  
+Version: 1.8.2-1
+
+- libapt-pkg5.0  
+Visible name: APT (libapt-pkg)  
+Version: 1.8.2-1
+
+- libassuan  
+Visible name: Assuan  
+Version: 2.5.1-1
+
+- libgmp10  
+Visible name: GNU Multiple Precision Arithmetic Library  
+Version: 6.1.2-1
+
+- libgpg-error  
+Visible name: GnuPG Errors  
+Version: 1.32-1
+
+- libksba  
+Visible name: KSBA  
+Version: 1.3.5-1
+
+- libssl1.0  
+Visible name: OpenSSL 1.0 Libraries  
+Version: 1.0.2s-1
+
+- libssl1.1.1  
+Visible name: OpenSSL 1.1.1 Libraries  
+Version: 1.1.1c-1
+
+- lz4  
+Visible name: LZ4  
+Version: 1.7.5-1
+
+- lzma  
+Visible name: LZMA Utils  
+Version: 2:4.32.7-2
+
+- me.aesthyrica.twttr  
+Visible name: twttr  
+Version: 1.0.5
+
+- me.kritanta.homeplus  
+Visible name: HomePlus Beta  
+Version: 0.4.9-beta
+
+- me.nepeta.axon  
+Visible name: Axon  
+Version: 0.5.1
+
+- me.nepeta.docky  
+Visible name: Docky  
+Version: 0.2.2
+
+- me.nepeta.iconstate  
+Visible name: IconState  
+Version: 0.1.0
+
+- ml.andrewhyatt.typetab  
+Visible name: TypeTab  
+Version: 5.0
+
+- mobilesubstrate  
+Visible name: Cydia Substrate  
+Version: 0.9.7101
+
+- ncurses  
+Visible name: New Curses  
+Version: 6.1+20181013-1
+
+- ncurses5-libs  
+Visible name: New Curses  
+Version: 5.9-1
+
+- net.angelxwind.appsyncunified  
+Visible name: AppSync Unified  
+Version: 70.0
+
+- nettle  
+Visible name: Nettle  
+Version: 3.4.1-1
+
+- npth  
+Visible name: New GNU Portable Threads  
+Version: 1.6-1
+
+- openssh  
+Visible name: OpenSSH  
+Version: 8.1-1
+
+- org.swift.libswift  
+Visible name: libswift (stable)  
+Version: 5.0
+
+- org.thebigboss.appcon  
+Visible name: Appcon  
+Version: 1.4.7
+
+- org.thebigboss.dismissprogress  
+Visible name: DismissProgress  
+Version: 1.0.4
+
+- org.thebigboss.libcolorpicker  
+Visible name: libcolorpicker  
+Version: 1.6.7
+
+- org.thebigboss.repo.icons  
+Visible name: BigBoss Icon Set  
+Version: 1.0
+
+- org.thebigboss.swipeformore  
+Visible name: SwipeForMore  
+Version: 1.1.10
+
+- p7zip  
+Visible name: 7-zip (POSIX)  
+Version: 16.02-1
+
+- preferenceloader  
+Visible name: PreferenceLoader  
+Version: 2.2.4
+
+- profile.d  
+Visible name: Profile Directory  
+Version: 0-1
+
+- ru.domo.cocoatop64  
+Visible name: CocoaTop  
+Version: 2.0.2
+
+- ru.pvmntsdev.twitterlabs  
+Visible name: Twitter Labs  
+Version: 1.0.6
+
+- sh.litten.rose  
+Visible name: Rose 🌹  
+Version: 4.5
+
+- tar  
+Visible name: Tape Archive  
+Version: 1.30-2
+
+- uikittools  
+Visible name: UIKit Tools  
+Version: 1.1.15-2
+
+- ws.hbang.common  
+Visible name: Cephei  
+Version: 1.14
+
+- ws.hbang.newterm2  
+Visible name: NewTerm (iOS 10 – 13)  
+Version: 2.4
+
+- xyz.willy.zebra  
+Visible name: Zebra  
+Version: 1.1~beta1-1
+
+- xyz.xninja.systeminfo  
+Visible name: System Info  
+Version: 2.0.0-1
+
+- xz  
+Visible name: XZ Utils  
+Version: 5.2.4-4
+
