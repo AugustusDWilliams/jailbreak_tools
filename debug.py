@@ -1,5 +1,7 @@
 import os
 import re
+from jailbreak_tools import *
+from pprint import pprint as pp
 
 def read_file(filename):
     with open(filename, "r") as file:
@@ -20,10 +22,27 @@ def parse_data(data):
         tweak_list.append(tweak_data)
     return tweak_list
 
+def debug():
+    app.ui.input_app.setText("Apollo")
+
 if __name__ == "__main__":
-    filename = "/home/development/Code/Projects/jailbreak_tools/data/tweak_list.csv"
-    data = read_file(filename)
-    tweak_list = parse_data(data)
-    print(tweak_list)
-    #print(len(tweak_list))
+    #filename = "/home/development/Code/Projects/jailbreak_tools/data/tweak_list.csv"
+    #data = read_file(filename)
+    #tweak_list = parse_data(data)
+    #print(tweak_list)
+    ##print(len(tweak_list))
+    #LOGGER.info("Application Started")
+    #app = App()
+    #debug()
+    #app.exec()
+    #LOGGER.debug("Application Exited")
+
+    #src = r"C:\Users\dwilliams\Code\Projects\jailbreak_tools\data\ThemeLibrary\Themes\Jool\Jool - Apps.theme\IconBundles"
+    #files = core.get_files(src)
+    #for file in files:
+    #    if "com.christianselig.Apollo" in file.stem:
+    #        print(file)
+    #        break
+    #print(files)
+    pp(core.get_themes())
 

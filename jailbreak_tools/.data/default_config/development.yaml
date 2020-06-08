@@ -1,0 +1,6 @@
+database: C:\Users\dwilliams\Code\Projects\jailbreak_tools\data\IconLibrary.db
+database_dir: C:\Users\dwilliams\Code\Projects\jailbreak_tools\data
+excel_file: C:\Users\dwilliams\Code\Projects\jailbreak_tools\data\AppBundleIDs.xlsx
+table_name: BundleIDs
+theme_folder: C:\Users\dwilliams\Code\Projects\jailbreak_tools\data\ThemeLibrary\Themes
+categories_folder: C:\Users\dwilliams\Code\Projects\jailbreak_tools\data\ThemeLibrary\Apps
